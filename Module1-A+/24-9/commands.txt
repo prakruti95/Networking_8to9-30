@@ -74,3 +74,8 @@ ping ipaddress in your cmd -> if network is there it should be show reply
 
 -> wifi and Ethernet Connectivity ->enable and disable
 
+
+
+-> temp
+-> %temp%
+-> prefetch
