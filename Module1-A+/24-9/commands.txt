@@ -1,0 +1,76 @@
+Section 1: Useful Keyboard Shortcuts
+
+| Shortcut            | Function                    |
+| ------------------- | --------------------------- |
+| Windows + E         | Open File Explorer          |
+| Windows + R         | Open Run Dialog Box         |
+| Windows + D         | Show Desktop                |
+| Windows + L         | Lock Computer               |
+| Windows + Tab       | Task View                   |
+| Alt + Tab           | Switch Between Applications |
+| Ctrl + Shift + Esc  | Open Task Manager Directly  |
+| Ctrl + A            | Select All                  |
+| Ctrl + C            | Copy                        |
+| Ctrl + V            | Paste                       |
+| Ctrl + X            | Cut                         |
+| Ctrl + Z            | Undo                        |
+| Ctrl + Y            | Redo                        |
+| F2                  | Rename File                 |
+| F5                  | Refresh                     |
+| Windows + Shift + S | Screenshot Tool             |
+
+
+
+---
+
+Section 2: Run Commands
+
+Press Windows + R and try these commands.
+
+| Command      | Opens                |
+| ------------ | -------------------- |
+| cmd          | Command Prompt       |
+| msconfig     | System Configuration |
+| taskmgr      | Task Manager         |
+| control      | Control Panel        |
+| appwiz.cpl   | Installed Programs   |
+| devmgmt.msc  | Device Manager       |
+| diskmgmt.msc | Disk Management      |
+| services.msc | Windows Services     |
+| ncpa.cpl     | Network Connections  |
+| calc         | Calculator           |
+| notepad      | Notepad              |
+| dxdiag       | DirectX Information  |
+| cleanmgr     | Disk Cleanup         |
+
+================================================================================================================
+Task 1: Know Your Computer
+
+Open Command Prompt by pressing Win + R, type cmd, and press Enter.
+
+Type:
+
+hostname
+
+This command displays the computer name.
+
+Type:
+
+whoami
+
+This command shows the current user account.
+
+Type:
+
+systeminfo
+
+This command displays detailed system information.
+
+
+For Ip Address: ipconfig
+after note your ip address type
+
+ping ipaddress in your cmd -> if network is there it should be show reply
+
+-> wifi and Ethernet Connectivity ->enable and disable
+

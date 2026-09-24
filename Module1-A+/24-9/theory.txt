@@ -1,0 +1,142 @@
+Day 1: Overview of Hardware Components 
+
+1. Introduction to Computer Hardware 
+
+What is Hardware?
+
+Hardware refers to the physical parts of a computer that can be seen and touched.
+
+Examples:
+
+* Monitor
+* Keyboard
+* Mouse
+* Motherboard
+* CPU
+* RAM
+* Hard Disk
+
+Hardware vs Software
+
+| Hardware            | Software                  |
+| ------------------- | ------------------------- |
+| Physical components | Programs and applications |
+| Can be touched      | Cannot be touched         |
+| Example: Keyboard   | Example: Microsoft Word   |
+
+
+Question
+Can a computer work with only hardware and no software?
+Answer:No. Hardware requires software instructions to perform tasks.
+
+
+
+2. Motherboard
+
+What is a Motherboard?
+
+The motherboard is the main circuit board of a computer. 
+It connects all hardware components and allows them to communicate with each other.
+
+Functions:
+
+* Connects CPU, RAM, storage devices, and expansion cards.
+* Distributes power to components.
+* Enables communication between hardware devices.
+
+Main Parts on a Motherboard:
+
+* CPU Socket
+* RAM Slots
+* PCIe Slots
+* Storage Connectors (SATA, M.2)
+* Power Connectors
+
+Simple Analogy
+
+Think of the motherboard as a city's road network. 
+All vehicles (data) travel through these roads to reach different destinations.
+
+
+
+3. CPU (Central Processing Unit) 
+
+What is a CPU?
+
+The CPU is the brain of the computer.
+
+Responsibilities:
+
+* Processes instructions.
+* Performs calculations.
+* Controls computer operations.
+
+CPU Components:
+
+1. Arithmetic Logic Unit (ALU)
+
+   * Performs calculations and logical operations.
+
+2. Control Unit (CU)
+
+   * Directs the flow of data.
+
+3. Cache Memory
+
+   * Stores frequently used data for faster access.
+
+Popular CPU Manufacturers:
+
+* Intel
+* AMD
+
+Example
+
+When you open a browser:
+
+1. CPU receives the command.
+2. CPU processes the instruction.
+3. CPU communicates with RAM and storage.
+4. Browser opens on screen.
+
+---
+
+4. RAM (Random Access Memory) 
+
+What is RAM?
+
+RAM is temporary memory used to store data currently being used by the computer.
+
+Characteristics:
+
+* Fast access speed.
+* Temporary storage.
+* Data is lost when power is turned off.
+
+Why RAM is Important
+
+More RAM allows:
+
+* Better multitasking.
+* Faster application performance.
+* Smoother user experience.
+
+Example
+
+If you open:
+
+* Chrome
+* Microsoft Word
+* Spotify
+
+All active programs are stored in RAM while running.
+
+Analogy
+
+RAM is like your study desk.
+
+* Larger desk = More books can stay open.
+* Smaller desk = Less workspace.
+
+
+
