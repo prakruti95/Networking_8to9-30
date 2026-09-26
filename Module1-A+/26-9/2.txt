@@ -1,0 +1,331 @@
+5. GPU (Graphics Processing Unit) 
+
+What is a GPU?
+
+GPU is responsible for processing graphics and displaying images on the monitor.
+
+Uses:
+
+* Gaming
+* Video Editing
+* 3D Modeling
+* Artificial Intelligence
+* Machine Learning
+
+Types of GPU:
+
+Integrated GPU
+
+Built inside the CPU.
+
+Example:
+
+Intel UHD Graphics
+
+Dedicated GPU
+
+Separate graphics card.
+
+Examples:
+
+* NVIDIA GeForce
+* AMD Radeon
+
+Analogy
+
+CPU = General Manager
+
+GPU = Graphics Specialist
+
+---
+
+6. Storage Devices 
+
+Storage devices save data permanently.
+
+HDD (Hard Disk Drive)
+
+Features:
+
+* Uses spinning magnetic disks.
+* Larger storage capacity.
+* Lower cost.
+
+Advantages:
+
+* Affordable
+* High capacity
+
+Disadvantages:
+
+* Slower speed
+* Mechanical parts can wear out
+
+---
+
+## SSD (Solid State Drive)
+
+Features:
+
+* No moving parts.
+* Uses flash memory.
+* Faster performance.
+
+Advantages:
+
+* Fast boot time
+* Faster file access
+* Durable
+
+Disadvantages:
+
+* More expensive than HDD
+
+---
+
+## HDD vs SSD
+
+| Feature      | HDD     | SSD            |
+| ------------ | ------- | -------------- |
+| Speed        | Slow    | Fast           |
+| Moving Parts | Yes     | No             |
+| Durability   | Lower   | Higher         |
+| Cost         | Cheaper | More Expensive |
+| Boot Time    | Longer  | Shorter        |
+
+---
+
+# How All Components Work Together 
+
+Example: Opening Microsoft Word
+
+1. User clicks Word icon.
+2. SSD/HDD sends program data.
+3. RAM temporarily stores active data.
+4. CPU processes instructions.
+5. GPU displays the application.
+6. Motherboard connects everything.
+
+### Flow
+
+Storage → RAM → CPU → GPU → Monitor
+
+---
+
+Summary
+
+Today we learned:
+
+✓ Motherboard – Connects all components
+
+✓ CPU – Brain of the computer
+
+✓ RAM – Temporary working memory
+
+✓ GPU – Handles graphics processing
+
+✓ HDD – Traditional storage
+
+✓ SSD – Fast modern storage
+
+---
+
+# Assignment
+
+### Draw a Basic PC Hardware Diagram
+
+* Motherboard
+* CPU
+* RAM
+* GPU
+* SSD/HDD
+* Power Supply
+* Monitor
+* Keyboard
+* Mouse
+
+Sample Layout
+
+
+           MONITOR
+              |
+              |
+        +-----------+
+        |    GPU    |
+        +-----------+
+              |
+    +-------------------+
+    |   MOTHERBOARD     |
+    |                   |
+    |  CPU      RAM     |
+    |                   |
+    +-------------------+
+              |
+       +-------------+
+       | SSD / HDD   |
+       +-------------+
+
+     Keyboard    Mouse
+
+Homework Questions
+
+1. What is the function of a motherboard?
+2. Why is CPU called the brain of a computer?
+3. What is the difference between RAM and Storage?
+4. Name two advantages of SSD over HDD.
+5. What is the role of a GPU?
+
+---------------------------------------------------------------------------
+Day 1 Hardware Practical Activity
+
+Computer Detective Activity
+
+Task 1: Know Your Computer
+
+Open Command Prompt by pressing Win + R, type cmd, and press Enter.
+
+Type:
+
+hostname
+
+This command displays the computer name.
+
+Type:
+
+whoami
+
+This command shows the current user account.
+
+Type:
+
+systeminfo
+
+This command displays detailed system information.
+
+What is the name of the computer?
+
+Which version of Windows is installed?
+
+Task 2: Explore Hardware Components
+
+Type:
+
+wmic cpu get name
+wmic->Windows Management Instrumentation Command-line
+
+This command displays the processor model.
+
+Type:
+
+wmic memorychip get capacity
+
+This command shows memory capacity.
+
+Type:
+
+wmic diskdrive get model,size
+
+This command displays storage device information.
+
+Discussion:
+
+Students can compare their hardware specifications with the concepts learned in the lecture. 
+They can identify the processor, memory, and storage available in their systems.
+
+Task 3: Network Investigation
+
+Type:
+
+ipconfig
+
+This command displays the IP address and network details.
+
+Type:
+
+ping google.com
+
+This command checks internet connectivity by sending data packets and receiving a response.
+
+Discussion:
+
+Students can understand how computers communicate over a network and how internet connectivity is tested.
+
+Task 4: Folder and File Creation
+
+Create a folder:
+
+mkdir MyLab
+
+Move into the folder:
+
+cd MyLab
+
+Create a text file:
+
+echo Hello Students > welcome.txt
+
+View the file contents:
+
+type welcome.txt
+
+Students will observe how files and folders can be managed through commands.
+
+Task 5: System Performance Observation
+
+Open Task Manager:
+
+taskmgr
+
+Observe:
+
+Current CPU usage
+
+Current RAM usage
+
+Application using the highest memory
+
+Discussion:
+
+Students can relate these observations to processor performance and 
+memory utilization concepts discussed during the lecture.
+
+Challenge Activity
+
+Find the processor model.
+
+Find the RAM capacity.
+
+Find the IP address.
+
+Create a folder using their name.
+
+Create a text file inside that folder.
+
+---------------------
+Additional Commands
+---------------------
+tree
+
+Displays the folder structure in a visual format.
+
+color 0A
+
+Changes the Command Prompt text color to green.
+
+Submission Details
+
+Each student should submit the following information:
+
+Computer Name
+
+CPU Model
+
+RAM Size
+
+Storage Information
+
+IP Address
+
+Learning Outcome
+
+
