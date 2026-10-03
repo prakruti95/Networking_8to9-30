@@ -1,0 +1,130 @@
+Day 2: Motherboard and CPU
+
+Theory (30 Minutes)
+
+Types of Motherboards
+
+Motherboards come in different sizes, known as form factors.
+
+| Type             | Size             | Common Use                        |
+| ---------------- | ---------------- | --------------------------------- |
+| ATX              | Standard Size    | Gaming and Desktop PCs            |
+| Micro-ATX (mATX) | Smaller than ATX | Budget and Compact PCs            |
+| Mini-ITX         | Very Compact     | Small Form Factor PCs             |
+| E-ATX            | Larger than ATX  | Workstations and High-End Systems |
+
+CPU Socket Compatibility
+
+A CPU must be compatible with the motherboard socket.
+
+| Socket Type    | Supported Processors                |
+| -------------- | ----------------------------------- |
+| Intel LGA 1700 | 12th, 13th, and 14th Gen Intel CPUs |
+| AMD AM4        | Ryzen 1000–5000 Series              |
+| AMD AM5        | Ryzen 7000 Series and Later         |
+
+Note: A processor cannot be installed in a motherboard with a different socket type.
+
+Functions of the CPU
+
+The CPU (Central Processing Unit) is the main processing unit of the computer.
+
+Main Functions:
+
+| Function               | Description                                     |
+| ---------------------- | ----------------------------------------------- |
+| Instruction Processing | Executes commands from software                 |
+| Calculations           | Performs arithmetic and logical operations      |
+| Data Management        | Controls data flow between components           |
+| System Control         | Handles tasks requested by the operating system |
+
+Important CPU Specifications
+
+| Specification | Meaning                                    |
+| ------------- | ------------------------------------------ |
+| Cores         | Individual processing units inside the CPU |
+| Threads       | Virtual processing paths                   |
+| Clock Speed   | Processing speed measured in GHz           |
+| Cache         | High-speed memory used by the CPU          |
+
+Functions of the Chipset
+
+The chipset manages communication between hardware components.
+
+| Connected Components |
+| -------------------- |
+| CPU                  |
+| RAM                  |
+| Storage Devices      |
+| Graphics Cards       |
+| USB Devices          |
+
+Examples of Chipsets
+
+| Intel Chipsets | AMD Chipsets |
+| -------------- | ------------ |
+| B760           | B650         |
+| Z790           | X670         |
+
+Benefits of High-End Chipsets
+
+| Feature              | Benefit                         |
+| -------------------- | ------------------------------- |
+| More PCIe Lanes      | Supports more expansion devices |
+| Overclocking Support | Better performance tuning       |
+| More USB Ports       | Additional connectivity         |
+| More Storage Options | Supports more drives            |
+
+Practical (30 Minutes)
+
+Activity 1: Identify Motherboard Slots
+
+| Component        | Purpose                        |
+| ---------------- | ------------------------------ |
+| CPU Socket       | Holds the processor            |
+| RAM (DIMM) Slots | Holds memory modules           |
+| PCIe x16 Slot    | Used for graphics cards        |
+| PCIe x1 Slot     | Used for Wi-Fi and sound cards |
+| M.2 Slot         | Used for NVMe SSDs             |
+| SATA Ports       | Used for HDDs and SATA SSDs    |
+
+Activity 2: Identify Rear I/O Ports
+
+| Port           | Function                                     |
+| -------------- | -------------------------------------------- |
+| USB Type-A     | Connects peripherals                         |
+| USB Type-C     | High-speed data and charging                 |
+| Ethernet (LAN) | Network connection                           |
+| Audio Jacks    | Sound input/output                           |
+| HDMI           | Video output                                 |
+| DisplayPort    | Video output                                 |
+| PS/2           | Keyboard or mouse connection (older systems) |
+
+Activity 3: Component Matching
+
+| Component    | Connects To   |
+| ------------ | ------------- |
+| CPU          | CPU Socket    |
+| RAM          | DIMM Slot     |
+| GPU          | PCIe x16 Slot |
+| NVMe SSD     | M.2 Slot      |
+| SATA SSD/HDD | SATA Port     |
+
+Quick Quiz
+
+| Question                                               | Answer                                           |
+| ------------------------------------------------------ | ------------------------------------------------ |
+| What is the primary function of the CPU?               | Execute instructions and process data            |
+| What is the role of the chipset?                       | Manage communication between hardware components |
+| Which slot is used for a graphics card?                | PCIe x16 Slot                                    |
+| What is the difference between ATX and Mini-ITX?       | Mini-ITX is much smaller than ATX                |
+| Can an AMD AM5 CPU be installed in an AM4 motherboard? | No, the sockets are different                    |
+
+Learning Outcome
+
+| Skills Gained                              |
+| ------------------------------------------ |
+| Understand the role of the CPU and chipset |
+| Identify motherboard form factors          |
+| Check CPU and motherboard compatibility    |
+| Recognize motherboard slots and ports      |

@@ -1,0 +1,24 @@
+Section 3: Basic CMD Commands
+
+Open Command Prompt.
+
+| Command           | Purpose                      |
+| ----------------- | ---------------------------- |
+| hostname          | Shows PC Name                |
+| whoami            | Shows Current User           |
+| ipconfig          | Shows IP Address             |
+| ipconfig /all     | Detailed Network Information |
+| systeminfo        | Complete System Information  |
+| tasklist          | Running Processes            |
+| cls               | Clear Screen                 |
+| date              | Show Current Date            |
+| time              | Show Current Time            |
+| shutdown /s /t 60 | Shutdown after 60 Seconds    |
+| shutdown /a       | Cancel Shutdown              |
+| tree              | Display Folder Structure     |
+| dir               | Show Files and Folders       |
+
+
+powercfg/batteryreport
+
+SMPS troubleshooting
