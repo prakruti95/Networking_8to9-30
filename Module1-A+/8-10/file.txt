@@ -1,0 +1,182 @@
+Command:
+
+1. tree
+
+2. color 0A
+
+    0 = Black       8 = Gray
+    1 = Blue        9 = Light Blue
+    2 = Green       A = Light Green
+    3 = Aqua        B = Light Aqua
+    4 = Red         C = Light Red
+    5 = Purple      D = Light Purple
+    6 = Yellow      E = Light Yellow
+    7 = White       F = Bright White
+
+
+3.
+| Command      | Tool                        |
+| ------------ | --------------------------- |
+| mrt          | Malware Removal Tool        |
+| charmap      | Character Map               |
+| osk          | On-Screen Keyboard          |
+| magnify      | Magnifier                   |
+| snippingtool | Screenshot Tool             |
+| msinfo32     | Detailed System Information |
+| perfmon      | Performance Monitor         |
+| resmon       | Resource Monitor            |
+
+# Day 4: GPUs and Cooling Systems
+
+## Theory (30 Minutes)
+
+### 1. What is a GPU?
+
+A **GPU (Graphics Processing Unit)** is a specialized processor designed to handle graphics rendering and parallel computations.
+
+Common uses:
+
+* Gaming
+* Video editing
+* 3D rendering
+* Artificial Intelligence (AI)
+* Machine Learning
+* Cryptocurrency mining
+
+### Types of GPUs
+
+#### Integrated GPU (iGPU)
+
+Built into the CPU.
+
+**Advantages:**
+
+* Lower power consumption
+* Lower cost
+* Suitable for office work and media playback
+
+**Examples:**
+
+* Intel UHD Graphics
+* AMD Radeon Graphics (integrated)
+
+#### Dedicated (Discrete) GPU
+
+A separate expansion card installed in a PCIe slot.
+
+**Advantages:**
+
+* Much higher performance
+* Dedicated video memory (VRAM)
+* Better for gaming and professional workloads
+
+**Examples:**
+
+* NVIDIA GeForce RTX series
+* AMD Radeon RX series
+
+---
+
+### 2. GPU Components
+
+A graphics card typically contains:
+
+* GPU Chip (the processor)
+* VRAM (Video Memory)
+* Cooling System
+* PCIe Connector
+* Display Outputs (HDMI, DisplayPort)
+
+### Common GPU Ports
+
+* HDMI
+* DisplayPort
+* DVI (older)
+* VGA (very old)
+
+---
+
+## 3. Cooling Systems
+
+Computer components generate heat and must be cooled to operate safely.
+
+Main components needing cooling:
+
+* CPU
+* GPU
+* Power Supply
+* Case interior
+
+---
+
+## 4. Air Cooling
+
+Air cooling uses:
+
+* Heat sink
+* Cooling fan
+
+### How It Works
+
+1. Heat moves from the CPU/GPU into the heatsink.
+2. The heatsink spreads the heat.
+3. The fan blows air across the fins.
+4. Heat is expelled from the case.
+
+### Advantages
+
+* Affordable
+* Reliable
+* Easy to install
+* Low maintenance
+
+### Disadvantages
+
+* Can be noisy
+* Less efficient for extreme workloads
+
+---
+
+## 5. Liquid Cooling
+
+Liquid cooling uses:
+
+* Water block
+* Pump
+* Tubes
+* Radiator
+* Fans
+
+### How It Works
+
+1. Coolant absorbs heat from the CPU.
+2. Pump circulates coolant.
+3. Radiator releases heat.
+4. Coolant returns to the CPU block.
+
+### Advantages
+
+* Better cooling performance
+* Quieter operation
+* Attractive appearance
+
+### Disadvantages
+
+* More expensive
+* More complex
+* Potential leak risk (rare in quality systems)
+
+---
+
+## Air Cooling vs Liquid Cooling
+
+| Feature             | Air Cooling | Liquid Cooling |
+| ------------------- | ----------- | -------------- |
+| Cost                | Lower       | Higher         |
+| Installation        | Easier      | More complex   |
+| Maintenance         | Minimal     | Moderate       |
+| Cooling Performance | Good        | Excellent      |
+| Noise               | Moderate    | Usually lower  |
+
+---
+
