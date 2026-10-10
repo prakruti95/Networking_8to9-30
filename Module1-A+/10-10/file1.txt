@@ -1,0 +1,27 @@
+-> vmware workstation pro download-
+-> install windows any version
+-> document of vbs file
+
+1. https://www.youtube.com/watch?v=lNGXSrZB_2A
+
+2.
+Windows Activation Guide (via PowerShell MAS Script)
+
+==================================================
+POWERSHELL COMMAND:
+==================================================
+
+irm https://get.activated.win | iex
+
+==================================================
+INSTRUCTIONS:
+==================================================
+1. Press the Windows Key + X on your keyboard and select "PowerShell" or "Terminal".
+2. Copy the command above, paste it into the PowerShell window, and press Enter.
+3. A menu will appear on your screen. 
+4. Press [1] on your keyboard to select HWID Activation (this permanently activates Windows).
+5. Wait for the process to complete, then restart your PC.
+
+Note: 
+- 'irm' stands for Invoke-RestMethod (fetches the script).
+- 'iex' stands for Invoke-Expression (runs the fetched script).
