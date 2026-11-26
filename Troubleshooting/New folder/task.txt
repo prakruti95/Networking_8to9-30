@@ -1,0 +1,5 @@
+• The computer occasionally fails to start.
+• The system date and time reset after shutdown.
+• The computer runs very slowly.
+• The display sometimes does not appear.
+• The system becomes unusually hot after a short period of use.
